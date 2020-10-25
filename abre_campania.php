@@ -15,4 +15,3 @@ $rowcamp=pg_fetch_array($concampa);
 $id_camp=$rowcamp['id_camp'];
 $nombre_camp=$rowcamp['nombre_camp'];
 ?>
-<br>Hola mundos
